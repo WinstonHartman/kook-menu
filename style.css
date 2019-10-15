@@ -1,0 +1,13 @@
+main {
+	width: 700px;
+	margin:0 auto;
+}
+
+li a{
+	font-size: 30px;
+	color:black
+}
+
+li a:hover {
+	color:lime
+}
